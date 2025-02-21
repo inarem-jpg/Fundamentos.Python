@@ -1,4 +1,4 @@
-**Author:** Henar Contreras
+**Author:** Henar Contreras\n
 **Date:** 2023
 **Description:** just some python codes made for my first-year robotics engineering
   degree. The subject's name is fundamentals of python so don't expect anything
