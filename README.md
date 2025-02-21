@@ -13,7 +13,7 @@
   -- A gigglebot remote-controled via radio using a microbit
   [Program A on the gigglebot-radio needs some working on (adding the detection
   of the orientation of the bot to print correctly and stuff), but I dont have one
-  anymore to try to complete the code; if anyone ever doe complete it, let me know!]
+  anymore to try to complete the code; if anyone ever does complete it, let me know!]
 
   -- random microbit codes
   
